@@ -1,7 +1,18 @@
-# [2048](https://youtu.be/XM2n1gu4530)
-- Coding Tutorial: https://youtu.be/XM2n1gu4530
-- Demo: https://imkennyyip.github.io/2048/
 
-In this tutorial, you will learn how to build an identical clone of 2048. You will learn how to use the arrow keys to slide numbers around and merge tiles of the same value while totaling up the score.
 
-![2048-preview](https://user-images.githubusercontent.com/78777681/163065518-e4588997-1dde-45b7-a9a6-a7dafcbdf672.png)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+
+
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
+
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
